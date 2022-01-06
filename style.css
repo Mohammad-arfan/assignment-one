@@ -51,6 +51,7 @@ a {
 .vissions-wraper {
   display: flex;
   justify-content: center;
+  margin-bottom: 15px;
 }
 .logo-bg {
   width: 23%;
@@ -110,6 +111,12 @@ a {
   text-align: center;
   font-size: 40px;
   font-weight: bolder;
+}
+.html {
+  background-color: rgba(245, 193, 82, 0.699);
+}
+.css {
+  background-color: rgba(82, 180, 245, 0.699);
 }
 
 footer {
