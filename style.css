@@ -9,6 +9,10 @@ body {
   padding-left: 15px;
   color: #333333;
 }
+.banner-texts p {
+  margin-bottom: 30px;
+  width: 95%;
+}
 .orange-color {
   color: orange;
 }
@@ -18,9 +22,6 @@ body {
 .banner-texts {
   width: 40%;
   padding: 80px 100px 0px 130px;
-  /* padding-top: 80px;
-  padding-left: 130px;
-  padding-right: 100px; */
 }
 .banner-image {
   width: 45%;
@@ -38,4 +39,32 @@ body {
 }
 .small {
   font-size: 95%;
+}
+.visions-heading {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bolder;
+}
+.vissions-wraper {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+.logo-bg {
+  width: 23%;
+  padding: 15px;
+  border-radius: 25px;
+  margin: 10px;
+}
+.logo-bg img {
+  width: 120px;
+}
+.vission {
+  background-color: rgba(135, 207, 235, 0.226);
+}
+.mission {
+  background-color: rgba(250, 215, 229, 0.5);
+}
+.goals {
+  background-color: rgba(240, 214, 167, 0.582);
 }
